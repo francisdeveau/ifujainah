@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phikaemaw.annemuehlmeier.com/sitemap.xml
